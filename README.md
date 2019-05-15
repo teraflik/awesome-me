@@ -22,4 +22,4 @@ Using Google is really easy, but there are also some handy tips, like try to omi
 
 Using specific keywords instead of long-typed out sentences can give you really concise results.
 
-And try to steer clear of the spam links and annoying advertisements. Using good adblockers can really help for that.
+And try to steer clear of the spam links and annoying advertisements. Using a good adblocker can really help with that.
