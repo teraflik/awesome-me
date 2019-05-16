@@ -23,3 +23,18 @@ Using Google is really easy, but there are also some handy tips, like try to omi
 Using specific keywords instead of long-typed out sentences can give you really concise results.
 
 And try to steer clear of the spam links and annoying advertisements. Using a good adblocker can really help with that.
+
+## Get familiar with the slang
+
+- ELI5: Explain like I'm 5.
+- Out of The Loop: When you have little to no idea about what's going on.
+- OC: Original Content. The poster is the creator/author of the content.
+- Repost: Posting old content again.
+- Millenials: People born between the years 1985-2000 are generally considered as millenials.
+
+## Being better at communication
+The basics are:
+- Be prepared
+- Have a confident body language
+- Introduce yourself with a firm handshake
+- Use the tools at your disposal efficiently
